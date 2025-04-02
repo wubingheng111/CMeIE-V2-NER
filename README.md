@@ -32,6 +32,7 @@
 ### 计算宏平均F1分数
 生成详细的分类报告
 可视化训练和验证损失及F1分数
+![image](https://github.com/user-attachments/assets/fc3ce856-b76f-4a7b-a0f4-5e215427d487)
 预测功能:
 ## 使用方法
 准备数据集文件:
@@ -46,3 +47,7 @@
 ***主体: 新型肺炎***<p>
 ***客体: 发热***<p>
 ***预测关系: 临床表现***<p>
+![image](https://github.com/user-attachments/assets/143b1745-4068-4255-b98a-172e1ca53cf4)
+
+
+
